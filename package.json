@@ -1,0 +1,20 @@
+{
+  "name": "my-bot-4",
+  "version": "1.0.0",
+  "description": "Yangi Bot Proyekti",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.6",
+    "dotenv": "^16.6.1",
+    "express": "^5.2.1",
+    "node-telegram-bot-api": "^0.64.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
